@@ -1,4 +1,5 @@
 def validar_cpf_teste(n):
+
     if n.count(n[0]) == len(n):
         return False
     
